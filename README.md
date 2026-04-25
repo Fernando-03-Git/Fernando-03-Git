@@ -1,91 +1,76 @@
-<h1 align="center">Hi, I'm <b>Fernando Esquivia</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/></h1>
+<h1 align="center">Hi, I'm Fernando Esquivia 👋</h1>
 
+<h3 align="center">Backend Developer · Software Engineering Student</h3>
+
+<p align="center">Python · FastAPI · PostgreSQL · React</p>
+
+---
 
 ### 🌐 About Me / Sobre mí
 
-I am a Software Engineering student with experience in requirements analysis and gathering, UML modeling (use cases, activities), and normalized relational database design. I have participated in academic projects focused on building functional, clean, and well-structured web applications, applying best practices in both frontend and backend development.
+I'm a Software Engineering student focused on backend development. I enjoy building clean, functional web applications using Python and FastAPI, designing normalized relational databases, and applying software engineering best practices from requirements analysis to deployment.
 
-> **🎓 Soy estudiante de Ingeniería de Software** con experiencia en análisis y levantamiento de requerimientos, modelado UML (casos de uso, actividades) y diseño de bases de datos relacionales normalizadas.  
-> He participado en proyectos académicos enfocados en el desarrollo de aplicaciones web funcionales, limpias y bien estructuradas, aplicando buenas prácticas tanto en frontend como en backend.
-
+> Soy estudiante de Ingeniería de Software con enfoque en desarrollo backend. Me apasiona construir aplicaciones web limpias y funcionales con Python y FastAPI, diseñar bases de datos relacionales normalizadas y aplicar buenas prácticas desde el levantamiento de requerimientos hasta el despliegue.
 
 ---
 
-### 🔍 Professional Interests / Intereses Profesionales 
+### 🛠️ Tech Stack
 
+**Backend**
 
-- 💻 Cybersecurity  
-- ☁️ Cloud Computing  
-- 🧩 Agile Software Development
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 
+**Frontend**
 
-> - 💻 Ciberseguridad  
-> - ☁️ Computación en la Nube  
-> - 🧩 Metodologías Ágiles
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
----
+**Tools**
 
-### 🌱 Currently Learning / Actualmente aprendiendo
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-<span>
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-  <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white">
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">
-</span>
+**Currently learning**
 
----
-### 🛠️ Technologies / Tecnologias
-
-<span> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
-  <img src="https://img.shields.io/badge/Requests-2CA5E0?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white")>
-  <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white">
-</span>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
 ---
 
-### ⚙️ Tools and Platforms / Herramientas y plataformas
+### 🚀 Featured Projects
 
-<span>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white">
-  <img src ="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white">
-  <img src ="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
-</span>
+| Project | Description | Stack |
+|---|---|---|
+| [TaskFlow](https://github.com/Fernando-03-Git/taskflow-api) | Task management application with authentication and REST API | FastAPI · PostgreSQL · React |
+| [NovaBank](https://github.com/Fernando-03-Git/novabank) | Banking system simulation with account and transaction management | Python · PostgreSQL |
 
 ---
 
-<p>
-🎯 I aim to apply this knowledge to build secure, scalable, and efficient solutions.
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FernandoEsquivia&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoEsquivia&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
-> 🎯 Mi objetivo es aplicar estos conocimientos para construir soluciones seguras, escalables y eficientes.
+---
+
+### 🎯 Current Goals
+
+- Build production-ready projects that solve real problems
+- Deepen my knowledge in backend architecture and API design
+- Contribute to open source projects
 
 ---
 
-### 🎯 Current Goals / Objetivos Actuales
-
-- 🚀 Improve my skills in web and backend development  
-- 🛠️ Build functional projects that solve real-world problems  
-- 🤝 Collaborate on GitHub-based team projects
-
-> - 🚀 Mejorar mis habilidades en desarrollo web y backend  
-> - 🛠️ Crear proyectos funcionales que resuelvan problemas reales  
-> - 🤝 Colaborar en proyectos en equipo utilizando GitHub
-
----
-
-### 📫 Contact Me / Contáctame
+### 📫 Contact
 
 <p align="left">
   <a href="mailto:esquiviafernando33@gmail.com">
@@ -96,10 +81,6 @@ I am a Software Engineering student with experience in requirements analysis and
   </a>
 </p>
 
-
 ---
 
-<p align="center"><i>“Si puedes imaginarlo, puedes programarlo.”</i><br><sub style="color:gray"> — Alejandro ATS</sub></p>
-
-
-> - (Estoy terminando de construir mis proyectos para subirlos a mi respositorio)
+<p align="center"><i>"First, solve the problem. Then, write the code."</i><br><sub>— John Johnson</sub></p>

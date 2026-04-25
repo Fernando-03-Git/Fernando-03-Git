@@ -41,6 +41,7 @@ I'm a Software Engineering student focused on backend development. I enjoy build
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ---
 
@@ -49,15 +50,15 @@ I'm a Software Engineering student focused on backend development. I enjoy build
 | Project | Description | Stack |
 |---|---|---|
 | [TaskFlow](https://github.com/Fernando-03-Git/taskflow-api) | Task management application with authentication and REST API | FastAPI · PostgreSQL · React |
-| [NovaBank](https://github.com/Fernando-03-Git/novabank) | Banking system simulation with account and transaction management | Python · PostgreSQL |
+| [NovaBank](https://github.com/Fernando-03-Git/novabank) | Multiplatform banking app with real-time transactions and secure auth | Python · Flet · SQLite |
 
 ---
 
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FernandoEsquivia&show_icons=true&theme=default&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FernandoEsquivia&layout=compact&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Fernando-03-Git&show_icons=true&theme=default&hide_border=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fernando-03-Git&layout=compact&theme=default&hide_border=true" height="150"/>
 </p>
 
 ---
